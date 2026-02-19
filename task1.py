@@ -1,0 +1,11 @@
+a=int(input("Enter the first number:"))
+b=int(input("Enter the second number:"))
+add=int(a)+int(b)
+print("Addition:",add)
+sub=int(a)-int(b)
+print("Subtraction:",sub)
+mul=int(a)*int(b)
+print("Multiplication:",mul)
+div=int(a)/int(b)
+print("Division:",div)
+
